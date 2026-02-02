@@ -1,0 +1,10 @@
+<html>
+<body>
+<h2>Servlet Assignments</h2>
+<h3>Assignment 1: Login Servlet</h3>
+<a href="login.html">Go to Login Page</a>
+<br><br>
+<h3>Assignment 2: Send Redirect</h3>
+<a href="redirect.html">Go to Redirect Page</a>
+</body>
+</html>
