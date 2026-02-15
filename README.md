@@ -29,10 +29,10 @@ A comprehensive collection of 6 Spring Boot REST APIs demonstrating CRUD operati
 
 ## 🛠️ Technologies Used
 
-- **Java 17**
+- **Java 25**
 - **Spring Boot 4.0.2**
 - **Spring Web**
-- **Maven 3.6+**
+- **Maven 3.6.9**
 - **RESTful API Design**
 - **Postman** (for testing)
 
