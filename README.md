@@ -4,7 +4,7 @@ A Spring Boot microservice application for e-commerce product management with fu
 
 ## Technologies Used
 
-- **Java 21**
+- **Java 25**
 - **Spring Boot 3.4.1**
 - **Spring Data JPA**
 - **PostgreSQL**
